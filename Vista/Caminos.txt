@@ -1,0 +1,14 @@
+Sede Inicio: E, Sede Destino: D, Distancia: 30
+Sede Inicio: E, Sede Destino: A, Distancia: 20
+Sede Inicio: D, Sede Destino: E, Distancia: 30
+Sede Inicio: D, Sede Destino: A, Distancia: 40
+Sede Inicio: D, Sede Destino: C, Distancia: 20
+Sede Inicio: C, Sede Destino: D, Distancia: 20
+Sede Inicio: C, Sede Destino: B, Distancia: 10
+Sede Inicio: B, Sede Destino: C, Distancia: 10
+Sede Inicio: B, Sede Destino: A, Distancia: 5
+Sede Inicio: A, Sede Destino: E, Distancia: 20
+Sede Inicio: A, Sede Destino: D, Distancia: 40
+Sede Inicio: A, Sede Destino: B, Distancia: 5
+Sede Inicio: Brazil, Sede Destino: Argetina, Distancia: 9
+Sede Inicio: Argetina, Sede Destino: Brazil, Distancia: 9
